@@ -1,6 +1,6 @@
 export default function Skills() {
   const skills = [
-    "Java", "Python", "SQL", "JDBC", "DBMS",
+    "Java", "Python", "SQL", "DBMS",
     "React.js", "Web Development",
     "Machine Learning", "NLP",
     "Leadership", "Team Management"
